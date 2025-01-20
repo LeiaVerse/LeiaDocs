@@ -6,7 +6,7 @@ icon: chart-pie
 
 LeiaVerse's tokenomics revolves around Leia, the core of this dynamic ecosystem. As a representation of the framework, Leia drives innovation and collaboration, with a token allocated to support her growth and reward meaningful contributions.
 
-<figure><img src="../.gitbook/assets/Leia.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled-1.png" alt=""><figcaption></figcaption></figure>
 
 ## 1. Circulating Supply
 
