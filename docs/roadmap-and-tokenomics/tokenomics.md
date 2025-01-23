@@ -10,17 +10,13 @@ LeiaVerse's tokenomics revolves around Leia, the core of this dynamic ecosystem.
 
 ## 1. Circulating Supply
 
-95% is the circulating supply&#x20;
+90% is the circulating supply&#x20;
 
-## 2. Treasury and Ecosystem Development
+## 2. Locked Supply
 
-2% for the Ecosystem Development
+7.5% is the locked supply
 
 ## 3.Team Allocation
 
-2% for the team
-
-## 4.Marketing Operations&#x20;
-
-1% for the marketing operatins
+2.5% for the team
 
